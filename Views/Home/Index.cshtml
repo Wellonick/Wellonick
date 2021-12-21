@@ -1,0 +1,39 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Наши лучшие предложения</h2>
+<br />
+@{
+    foreach (var coffee in ViewBag.Coffee)
+    {
+        <div class="col-lg-4">
+            @{
+                if (coffee.isFav == true)
+                {
+
+                    <img src="~/Content/img/coffee.jpg" alt="coffee" width="250px" />
+                    <h3>
+                        Сорт <br />
+                        @coffee.Name
+                    </h3>
+
+                    <h4>Страна @coffee.Country</h4>
+
+                    <p>@coffee.Desc</p>
+
+                    <p style="font-size: 25px;">Цена @coffee.Price</p>
+
+                    <a href="/BuyCoffee/BuyCoffee/@coffee.Id" style="font-size: 20px; text-decoration: none; background-color: green; color: white; border: 2px solid green" class="obl>">Купить</a>
+                    <hr />
+                }
+            }
+        </div>
+    }
+}
+<br />
+<br />
+ 
+<a href="/Product/Products" style="font-size:30px; text-decoration: none; padding: 10px; background-color: yellow; color: white; border: 1px solid black" class="obl>">Другие предложения</a>
+<br />
+<br />

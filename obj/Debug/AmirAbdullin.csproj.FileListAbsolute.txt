@@ -1,0 +1,350 @@
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\AmirAbdullinWeb.dll.config
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\AmirAbdullinWeb.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\AmirAbdullinWeb.pdb
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\csc.exe
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\csc.exe.config
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\csc.rsp
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\csi.exe
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\csi.exe.config
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\csi.rsp
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.AppContext.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Console.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.Claims.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\vbc.exe
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\vbc.exe.config
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\vbc.rsp
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Antlr3.Runtime.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\EntityFramework.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\EntityFramework.SqlServer.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Newtonsoft.Json.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Owin.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Helpers.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Mvc.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Optimization.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Razor.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.WebPages.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\WebGrease.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Helpers.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Mvc.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Optimization.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.Razor.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.WebPages.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Newtonsoft.Json.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Antlr3.Runtime.pdb
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\EntityFramework.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\EntityFramework.SqlServer.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.Razor.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\EntityFramework.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\obj\Debug\AmirAbdullin.csproj.AssemblyReference.cache
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\obj\Debug\AmirAbdullin.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\obj\Debug\AmirAbdullin.csproj.CopyComplete
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\obj\Debug\AmirAbdullinWeb.dll
+C:\Users\dimas\Documents\LianaBirushevaWeb1 (1)\obj\Debug\AmirAbdullinWeb.pdb
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\AmirAbdullinWeb.dll.config
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\AmirAbdullinWeb.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\AmirAbdullinWeb.pdb
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\csc.exe
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\csc.exe.config
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\csc.rsp
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\csi.exe
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\csi.exe.config
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\csi.rsp
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.AppContext.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Console.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\vbc.exe
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\vbc.exe.config
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\vbc.rsp
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Antlr3.Runtime.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\EntityFramework.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Newtonsoft.Json.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Owin.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Helpers.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Mvc.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Optimization.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Razor.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.WebPages.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\WebGrease.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Helpers.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Mvc.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Optimization.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.Razor.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.WebPages.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Newtonsoft.Json.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Antlr3.Runtime.pdb
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\EntityFramework.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.Razor.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\EntityFramework.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\obj\Debug\AmirAbdullin.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Documents\AmirAbdullinWeb\obj\Debug\AmirAbdullin.csproj.CopyComplete
+C:\Users\dimas\Documents\AmirAbdullinWeb\obj\Debug\AmirAbdullinWeb.dll
+C:\Users\dimas\Documents\AmirAbdullinWeb\obj\Debug\AmirAbdullinWeb.pdb
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\AmirAbdullinWeb.dll.config
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\AmirAbdullinWeb.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\AmirAbdullinWeb.pdb
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\csc.exe
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\csc.exe.config
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\csc.rsp
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\csi.exe
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\csi.exe.config
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\csi.rsp
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Console.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\vbc.exe
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\vbc.exe.config
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\vbc.rsp
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Antlr3.Runtime.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\EntityFramework.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Newtonsoft.Json.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Owin.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Helpers.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Mvc.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Optimization.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Razor.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.WebPages.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\WebGrease.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Helpers.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Mvc.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Optimization.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.Razor.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.WebPages.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Newtonsoft.Json.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\EntityFramework.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\EntityFramework.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\obj\Debug\AmirAbdullin.csprojAssemblyReference.cache
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\obj\Debug\AmirAbdullin.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\obj\Debug\AmirAbdullin.csproj.CopyComplete
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\obj\Debug\AmirAbdullinWeb.dll
+C:\Users\Амир\Desktop\прога 2 курс\проект\AmirAbdullinWeb\obj\Debug\AmirAbdullinWeb.pdb

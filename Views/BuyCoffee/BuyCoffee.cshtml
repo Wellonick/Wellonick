@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+ 
+  <title>Страница Покупки</title>
+ 
+  <div class="compl">
+      <h3>Оформление покупки</h3>
+
+      <br />
+      @{
+          foreach (var t in ViewBag.Coffee)
+          {
+              if (t.Id == ViewBag.Id)
+              {
+                  <p>Покупка: @t.Name</p>
+                  <p>К оплате: @t.Price</p>
+                  <br />
+              }
+          }
+      }
+
+      <form method="post" action="">
+          <input type="hidden" name="CoffeeId" value="@ViewBag.Id" />
+          <input type="submit" class="button button-default" value="Оформить покупку" />
+      </form>
+      <br />
+  </div>

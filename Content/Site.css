@@ -1,0 +1,47 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url(/Content/img/fon1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header
+{
+    height: 70px;
+}
+.cont {
+    background-color: #f5f5f5;
+    opacity: 0.8;
+}
+
+
+
+.float-right {
+    float: right;
+    font-size: 25px;
+}
+    .float-right a {
+         
+        color: white;
+        padding-bottom: 25px;
+    }
+ .compl
+ {
+     font-size:20px;
+     text-align: center;
+ }
+
+footer {
+    font-size: 20px;
+    height: 100px;
+    background-color: #7d827d;
+    color: white;
+    margin-top: 300px;
+    padding-top: 30px;
+    width: 100%;
+}
+ 
